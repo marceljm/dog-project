@@ -117,4 +117,4 @@ Alternatively, your submission could consist of the GitHub link to your reposito
 
 ## Udacity Reviews
 
-[#1](https://review.udacity.com/#!/reviews/1155274)
+[Review #1](https://review.udacity.com/#!/reviews/1155274)
